@@ -1,0 +1,26 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/dist
+
+# misc
+.DS_Store
+.env
+.env.*
+
+# local env files
+.vscode/
+
+# log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# os generated files
+Thumbs.db
